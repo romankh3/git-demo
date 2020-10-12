@@ -3,7 +3,7 @@
 ## English
 The project, which was created for implementation step-by-step guidelines for learning Git.
 
-Thanks for your attention.
+Thanks for your attention
 
 
 
@@ -14,3 +14,5 @@ Thanks for your attention.
 На основе этого проекта написана статья по работе гита в Intellij IDEA. [Подружим Git c Intellij IDEA](https://javarush.ru/groups/posts/2818-podruzhim-git-s-intellij-idea)
 
 Спасибо за внимание.
+
+Нписано в Intellij IDEA.
