@@ -1,4 +1,4 @@
-# Intro to Git
+# Intro to Russia
 
 ## English
 The project, which was created for implementation step-by-step guidelines for learning Git.
