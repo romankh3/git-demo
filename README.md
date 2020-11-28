@@ -1,7 +1,8 @@
 # Intro to Git
 
 ## English
-The project, which was created for implementation step-by-step guidelines for learning Git. For more information, see the article...
+The project, which was created for implementation step-by-step guidelines for learning Git. 
+For more information, see the article...
 
 Thanks for your attention.
 
