@@ -15,3 +15,4 @@ Thanks for your attention.
 
 
 ##Vladimir 
+- I like programming in scala
