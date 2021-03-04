@@ -5,4 +5,4 @@ hello world!
 update text. END.
 
 Show GIT PUSH command.
-The new string.
+Add new line.
