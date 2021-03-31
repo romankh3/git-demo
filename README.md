@@ -13,8 +13,7 @@ Thanks for your attention.
 Проект, который был создан для fdfd реализации пошагового  в статье [Начало работы с Git: подробный гайд для новичков](https://javarush.ru/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov).
 Здесь отображены все шаги, которые fgfg были проделаны в статье. 
 dffgshdf
-
-На основе этого gjkdfj проекта написана статья по работе гита в Intellij IDEA. [Подружим Git c Intellij IDEA](https://javarush.ru/groups/posts/2818-podruzhim-git-s-intellij-idea)
+fddfdf dfdве этого gjkdfj проекта написана статья по работе гита в Intellij IDEA. [Подружим Git c Intellij IDEA](https://javarush.ru/groups/posts/2818-podruzhim-git-s-intellij-idea)
 
 Следующая статья, которую стоит прочесть - [Командная работа без путаницы: разбираем стратегии ветвления в Гите](https://javarush.ru/groups/posts/2693-komandnaja-rabota-bez-putanicih-razbiraem-strategii-vetvlenija-v-gite)
 
