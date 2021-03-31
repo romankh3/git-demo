@@ -10,7 +10,7 @@ Thanks for your attention.
 *   [Teamwork without confusion: understanding branching strategies in Git](https://codegym.cc/groups/posts/454-teamwork-without-confusion-understanding-branching-strategies-in-git)
 
 ## Russian
-Проект, который был создан для реализации пошагового руководства в статье [Начало работы с Git: подробный гайд для новичков](https://javarush.ru/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov).
+Проект, который был создан для реализации пошагового  в статье [Начало работы с Git: подробный гайд для новичков](https://javarush.ru/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov).
 Здесь отображены все шаги, которые были проделаны в статье. 
 
 На основе этого проекта написана статья по работе гита в Intellij IDEA. [Подружим Git c Intellij IDEA](https://javarush.ru/groups/posts/2818-podruzhim-git-s-intellij-idea)
