@@ -3,8 +3,9 @@ class GitTest {
     int Two = 22;
     int Three = 33;
 
-    public void setOne(int one, int two) {
+    public void setOne(int one, int two, int three) {
         One = one;
         Two = two;
+        Three = three;
     }
 }
