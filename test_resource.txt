@@ -5,3 +5,5 @@ hello world!
 update text. END.
 
 Show GIT PUSH command.
+
+Add new branch that called new_feature/01
