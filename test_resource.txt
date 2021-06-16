@@ -6,4 +6,4 @@ update text. END.
 
 Show GIT PUSH command.
 
-New changes into master branch.
+Add new branch that called new_feature/01
