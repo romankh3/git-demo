@@ -1,4 +1,4 @@
-# Intro to Git
+# Intro to Git New Commit 2
 
 ## English
 The project, which was created for implementation step-by-step guidelines for learning Git.
