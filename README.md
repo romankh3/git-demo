@@ -8,7 +8,7 @@ Materials in English:
 *   [A match made in heaven: Git and IntelliJ IDEA](https://codegym.cc/groups/posts/407-a-match-made-in-heaven-git-and-intellij-idea)  
 *   [Teamwork without confusion: understanding branching strategies in Git](https://codegym.cc/groups/posts/454-teamwork-without-confusion-understanding-branching-strategies-in-git)
 
-Thanks for your attention.
+Thanks for attention & love.
 ## Russian
 Проект, который был создан для реализации пошагового руководства в статье [Начало работы с Git: подробный гайд для новичков](https://javarush.ru/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov).
 Здесь отображены все шаги, которые были проделаны в статье. 
@@ -17,4 +17,4 @@ Thanks for your attention.
 
 Следующая статья, которую стоит прочесть - [Командная работа без путаницы: разбираем стратегии ветвления в Гите](https://javarush.ru/groups/posts/2693-komandnaja-rabota-bez-putanicih-razbiraem-strategii-vetvlenija-v-gite)
 
-Спасибо за внимание.
+Спасибо за понимание.
