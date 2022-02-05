@@ -1,4 +1,4 @@
-Easy way to learn
+Easy way to learn sometihg here
 
 # Intro to Git
 
