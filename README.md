@@ -1,3 +1,5 @@
+Easy way to learn
+
 # Intro to Git
 
 ## English
