@@ -7,3 +7,4 @@ update text. END.
 Show GIT PUSH command.
 
 Added for merge.
+Change in server respozi!!!!! 
