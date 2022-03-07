@@ -19,4 +19,4 @@ Thanks for your attention.
 
 Спасибо за внимание.
 
-test from browser
+test resolve
