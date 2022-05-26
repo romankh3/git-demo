@@ -17,4 +17,4 @@ Thanks for your attention.
 
 Следующая статья, которую стоит прочесть - [Командная работа без путаницы: разбираем стратегии ветвления в Гите](https://javarush.ru/groups/posts/2693-komandnaja-rabota-bez-putanicih-razbiraem-strategii-vetvlenija-v-gite)
 
-Спасибо за внимание.
+
