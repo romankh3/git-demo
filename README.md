@@ -15,8 +15,11 @@ Thanks for your attention.
 
 На основе этого проекта написана статья по работе гита в Intellij IDEA. [Подружим Git c Intellij IDEA](https://javarush.ru/groups/posts/2818-podruzhim-git-s-intellij-idea)
 
-Следующая статья, которую стоит прочесть - [Командная работа без путаницы: разбираем стратегии ветвления в Гите](https://javarush.ru/groups/posts/2693-komandnaja-rabota-bez-putanicih-razbiraem-strategii-vetvlenija-v-gite)
+Следующая статья, которую стоит прочесть
 
+
+
+aaaaaaaaa  bbbbbbbbbbbb rrrrrrrrrr 
 
 
 ОЛО это что 
