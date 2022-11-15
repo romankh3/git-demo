@@ -5,4 +5,7 @@ hello world!
 update text. END.
 
 Show GIT PUSH command.
+
 Changes to check in the master branch
+
+Changes to check rebase
