@@ -19,4 +19,6 @@ Thanks for your attention.
 
 README на сервере
 
+README локально
+
 Спасибо за внимание.
