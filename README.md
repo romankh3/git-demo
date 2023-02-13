@@ -19,6 +19,4 @@ Thanks for your attention.
 
 README 
 
-README локально
-
 Спасибо за внимание.
