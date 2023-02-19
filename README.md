@@ -9,7 +9,6 @@ Materials in English:
 *   [Teamwork without confusion: understanding branching strategies in Git](https://codegym.cc/groups/posts/454-teamwork-without-confusion-understanding-branching-strategies-in-git)
 World hello!!
 Hello world!!!
-Attention world!!
 World World hello
 Thanks for your attention.
 1231231231313
