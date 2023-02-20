@@ -19,3 +19,5 @@ Thanks for your attention.
 
 Спасибо за внимание.
 Всё хуйня, давай по новой!
+Changed by Demid in Idea.
+
