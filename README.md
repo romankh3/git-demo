@@ -2,7 +2,7 @@
 
 ## English
 The project, which was created for implementation step-by-step guidelines for learning Git.
-Thanks for your time!
+Thanks for you
 
 Materials in English:
 *   [Getting started with Git: a comprehensive guide for newbies](https://codegym.cc/groups/posts/379-getting-started-with-git-a-comprehensive-guide-for-newbies)
