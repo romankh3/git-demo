@@ -11,6 +11,7 @@ Materials in English:
 Thanks for your attention.
 ## Russian
 ДОБАВИЛ проект, который был создан для реализации пошагового руководства в статье [Начало работы с Git: подробный гайд для новичков](https://javarush.ru/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov).
+СНОВА, который был создан для реализации пошагового руководства в статье [Начало работы с Git: подробный гайд для новичков](https://javarush.ru/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov).
 Здесь отображены все шаги, которые были проделаны в статье. 
 
 Работаем в  IDE снова работаем
